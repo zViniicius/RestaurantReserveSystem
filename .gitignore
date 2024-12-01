@@ -1,0 +1,27 @@
+# Diretórios de build
+/build/
+/bin/
+/out/
+/cmake-build-debug/
+
+# Arquivos de objetos
+*.o
+*.obj
+
+# Arquivos de compilação
+*.exe
+*.out
+*.a
+*.so
+
+# Arquivos de dependência
+*.d
+
+# Arquivos temporários de editor
+*~
+*.swp
+*.suo
+
+# Arquivos de IDE
+.vscode/
+.idea/
